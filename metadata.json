@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VeriAI: Fact-Check & Citation Validator",
+  "description": "A powerful tool to detect AI hallucinations, verify factual claims, and validate citations using real-time Google Search grounding.",
+  "requestFramePermissions": []
+}
