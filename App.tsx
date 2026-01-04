@@ -170,13 +170,11 @@ const App: React.FC = () => {
             <span className="text-lg font-bold text-white tracking-tight">VeriAI</span>
           </div>
           <div className="flex space-x-8 text-sm">
-            <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-            <a href="#" className="hover:text-white transition-colors">Contact Support</a>
+            
+            <a href="#" className="hover:text-white transition-colors">Team Gurudev</a>
+            
           </div>
-          <p className="mt-8 md:mt-0 text-sm">
-            &copy; {new Date().getFullYear()} VeriAI Verification Systems. All rights reserved.
-          </p>
+          
         </div>
       </footer>
     </div>
